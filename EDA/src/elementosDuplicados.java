@@ -16,6 +16,7 @@ public class elementosDuplicados {
 					retorno = "True";
 					break;
 				}
+				
 			}
 		}
 		System.out.println(retorno);
