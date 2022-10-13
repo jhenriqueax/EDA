@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T21:44:59.571-0300</date>
+  <logger>JOAO HENRIQUE ALMEIDA XAVIER</logger>
+  <level>FINE</level>
+  <message>File 121110402-JOAO HENRIQUE ALMEIDA XAVIER.zip was received. It was sent by JOAO HENRIQUE ALMEIDA XAVIER from IP 192.168.0.9 at 06-10-2022 21*44*59</message>
+</record>

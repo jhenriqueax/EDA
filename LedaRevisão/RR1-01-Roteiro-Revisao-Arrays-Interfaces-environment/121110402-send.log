@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-05T19:20:56.167-0300</date>
+  <logger>JOAO HENRIQUE ALMEIDA XAVIER</logger>
+  <level>FINE</level>
+  <message>File 121110402-JOAO HENRIQUE ALMEIDA XAVIER.zip was received. It was sent by JOAO HENRIQUE ALMEIDA XAVIER from IP 192.168.0.9 at 05-10-2022 19*20*55</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:41:51.594-0300</date>
+  <logger>JOAO HENRIQUE ALMEIDA XAVIER</logger>
+  <level>FINE</level>
+  <message>File 121110402-JOAO HENRIQUE ALMEIDA XAVIER.zip was received. It was sent by JOAO HENRIQUE ALMEIDA XAVIER from IP 192.168.48.57 at 06-10-2022 11*41*51</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T14:17:29.317-0300</date>
+  <logger>JOAO HENRIQUE ALMEIDA XAVIER</logger>
+  <level>FINE</level>
+  <message>File 121110402-JOAO HENRIQUE ALMEIDA XAVIER.zip was received. It was sent by JOAO HENRIQUE ALMEIDA XAVIER from IP 192.168.0.9 at 06-10-2022 14*17*29</message>
+</record>
