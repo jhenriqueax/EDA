@@ -1,7 +1,10 @@
-import java.util.Iterator;
+/*
+ * Escreva um programa que recebe uma sequência e verifica se esta possui ou não elementos duplicados.
+ */
+
 import java.util.Scanner;
 
-public class elementosDuplicados {
+public class checagemDeElementosDuplicados {
 
 	public static void main(String[] args) {
 		

@@ -1,3 +1,10 @@
+/*
+ * Uma palavra ou frase é um palíndromo caso possa ser lida tanto da esquerda para a direita,
+ * como da direita para a esquerda, sem alterar seu sentido. Escreva um método que receba um array de char,
+ * representando uma palavra,  e retorna um boolean. O método deve retornar true, caso a palavra seja um palíndromo, 
+ * e false, caso o contrário. 
+ */
+
 import java.util.Scanner;
 
 public class Palíndromo {

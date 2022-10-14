@@ -1,3 +1,8 @@
+/*
+ * Implemente um programa em Java que posiciona o último elemento de uma sequência de forma a ordená-la. 
+ * A sequência de entrada sempre está ordenada de forma crescente (exceto pelo último número).
+ */
+
 import java.util.Arrays;
 import java.util.Scanner;
 

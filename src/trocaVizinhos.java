@@ -1,3 +1,10 @@
+/*
+ * Escreva um método que receba um array de inteiros e troca os elementos vizinhos. 
+ * Se o tamanho da sequência for ímpar, troque os vizinhos e mantenha o último elemento em sua posição.
+ */
+
+import java.lang.reflect.Array;
+import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Scanner;
 
@@ -23,7 +30,7 @@ public class trocaVizinhos {
 
 		else {
 
-			for (int i = 0; i < seq.length -1; i += 2) {
+			for (int i = 0; i < seq.length - 1; i += 2) {
 
 				String buffer = seq[i];
 				seq[i] = seq[i + 1];
@@ -32,9 +39,6 @@ public class trocaVizinhos {
 			}
 		}
 
-		for (int i = 0; i < seq.length; i++) {
-			System.out.print(seq[i] + " ");
-		}
-
+		System.out.println(Arrays.toString(seq));
 	}
 }

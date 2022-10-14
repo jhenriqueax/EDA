@@ -1,3 +1,9 @@
+/**
+ *  Escreva um método que receba um array de inteiros e um inteiro, target.
+ *  O método deve retornar um array de duas posições contendo um par de inteiros distintos 
+ *  cuja soma seja igual ao valor target, caso não exista um par, retorna array vazio.
+ */
+
 import java.util.Scanner;
 
 public class somaDois {

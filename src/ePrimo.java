@@ -1,3 +1,7 @@
+/*
+ *  Escreva um método que verifica se um número é primo ou não.
+ */
+
 import java.util.Scanner;
 
 public class ePrimo {
@@ -16,12 +20,11 @@ public class ePrimo {
 					System.out.println("Não é primo");
 					break;
 				}
-				if(contador == 2 && i == num ) {
+				if (contador == 2 && i == num) {
 					System.out.println("É primo");
 				}
-				
+
 			}
-			
 
 		}
 	}
