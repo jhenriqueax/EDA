@@ -27,6 +27,7 @@ public class InsereUltimo {
 		array[array.length - 1] = Integer.toString(ultimo);
 		
 		System.out.println(Arrays.toString(array));
+		scan.close();
 
 	}
 

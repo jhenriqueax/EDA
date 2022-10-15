@@ -29,6 +29,7 @@ public class Palíndromo {
 			}
 		}
 		System.out.println(status);
+		scan.close();
 		}
 
 	}

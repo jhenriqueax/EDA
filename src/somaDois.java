@@ -9,8 +9,6 @@ import java.util.Scanner;
 public class somaDois {
 
 	public static void main(String[] args) {
-		
-		String[] array;
 
 		Scanner scan = new Scanner(System.in);
 		String[] seq = scan.nextLine().split(" ");
@@ -24,7 +22,7 @@ public class somaDois {
 				
 				if(num + num2 == valor){
 					System.out.printf("[%d,%d]",num, num2);
-					
+					scan.close();
 					break;
 				}
 

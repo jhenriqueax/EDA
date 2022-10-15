@@ -8,10 +8,10 @@ import java.util.Scanner;
 public class warmUp {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        sc.nextLine(); // coletando o "\n"
-        String seq = sc.nextLine();
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        scan.nextLine(); // coletando o "\n"
+        String seq = scan.nextLine();
         String[] novaSeq = seq.split(" ");
         for (String num : novaSeq) {
             int inteiro = Integer.parseInt(num);
@@ -22,5 +22,6 @@ public class warmUp {
             }
         }
         System.out.println();
+        scan.close();
     }
 }

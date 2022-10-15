@@ -22,6 +22,7 @@ public class checagemDeElementosDuplicados {
 			}
 		}
 		System.out.println(retorno);
+		scan.close();
 	}
 	
 }
